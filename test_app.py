@@ -1,1 +1,3 @@
-def test_function():\n    return "Test successful!"
+def test_function():
+    return "Test successful!"
+
